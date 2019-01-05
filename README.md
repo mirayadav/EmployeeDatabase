@@ -2,7 +2,7 @@
 
 Database system to organize employee information for small businesses.
 
-## Program Screen Shots
+## Program Screen Shot
 <img src="Screenshot.png" width="800">
 
 
